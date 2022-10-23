@@ -7,3 +7,4 @@ Go-basic
 - ![03-Example/Conditions](../main/01-basic/03-conditions/)
 - ![04-Example/Switch](../main/01-basic/04-switch/)
 - ![05-Example/Loops](../main/01-basic/05-loops/)
+- ![06-Example/Pointers](../main/01-basic/06-pointers/)
