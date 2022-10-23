@@ -6,3 +6,4 @@ Go-basic
 - ![02-Example/Types](../main/01-basic/02-types/)
 - ![03-Example/Conditions](../main/01-basic/03-conditions/)
 - ![04-Example/Switch](../main/01-basic/04-switch/)
+- ![05-Example/Loops](../main/01-basic/05-loops/)
